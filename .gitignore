@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Archivos de sesión de WhatsApp
+auth/
+
+# Datos y backups
+data/
+
+# Logs
+*.log
+
+# Archivos del sistema
+.DS_Store
